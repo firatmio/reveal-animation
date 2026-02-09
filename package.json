@@ -1,5 +1,5 @@
 {
-  "name": "@firat/reveal-animation",
+  "name": "reveal-animation-react",
   "version": "1.0.0",
   "type": "module",
   "description": "A React component with smooth reveal animation on scroll using Intersection Observer",

@@ -3,11 +3,11 @@
   <h1>Reveal Animation</h1>
   <p>✨ Smooth scroll reveal animations for React components</p>
   
-  [![npm version](https://img.shields.io/npm/v/@firat/reveal-animation?style=flat-square&color=3B82F6)](https://www.npmjs.com/package/@firat/reveal-animation)
+  [![npm version](https://img.shields.io/npm/v/reveal-animation-react?style=flat-square&color=3B82F6)](https://www.npmjs.com/package/reveal-animation-react)
   [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
   [![React](https://img.shields.io/badge/React-%5E16.8%20%7C%7C%20%5E19-61dafb?style=flat-square&logo=react)](https://react.dev)
   [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
-  [![Bundle Size](https://img.shields.io/bundlephobia/minzip/@firat/reveal-animation?style=flat-square&color=06B6D4)](https://bundlephobia.com/package/@firat/reveal-animation)
+  [![Bundle Size](https://img.shields.io/bundlephobia/minzip/reveal-animation-react?style=flat-square&color=06B6D4)](https://bundlephobia.com/package/reveal-animation-react)
 </div>
 
 ---
@@ -42,16 +42,16 @@ Choose your favorite package manager:
 
 ```bash
 # npm
-npm install @firat/reveal-animation
+npm install reveal-animation-react
 
 # yarn
-yarn add @firat/reveal-animation
+yarn add reveal-animation-react
 
 # pnpm
-pnpm add @firat/reveal-animation
+pnpm add reveal-animation-react
 
 # bun
-bun add @firat/reveal-animation
+bun add reveal-animation-react
 ```
 
 ---
@@ -61,7 +61,7 @@ bun add @firat/reveal-animation
 ### Basic Usage
 
 ```tsx
-import { Reveal } from '@firat/reveal-animation';
+import { Reveal } from 'reveal-animation-react';
 
 function App() {
   return (
@@ -75,7 +75,7 @@ function App() {
 ### With Custom Props
 
 ```tsx
-import { Reveal } from '@firat/reveal-animation';
+import { Reveal } from 'reveal-animation-react';
 
 function App() {
   return (
