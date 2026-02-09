@@ -11,9 +11,12 @@ function Main() {
   return (
     <div className="main">
       <Reveal width="100%" delay={0}>
-        <h1 className="header">Reveal Animation</h1>
+        <img src="/logo-trans.svg" alt="Reveal Animation" width={150} height={150} />
       </Reveal>
       <Reveal width="100%" delay={150}>
+        <h1 className="header">Reveal Animation</h1>
+      </Reveal>
+      <Reveal width="100%" delay={300}>
         <a
           href={`https://github.com/${githubUsername}/reveal-animation`}
           target="_blank"
@@ -25,7 +28,7 @@ function Main() {
           </div>
         </a>
       </Reveal>
-      <Reveal width="100%" delay={300}>
+      <Reveal width="100%" delay={450}>
         <p className="howtouse" onClick={() => navigate("how-to-use")}>
           <span>
             <SiGoogledocs /> How to use
