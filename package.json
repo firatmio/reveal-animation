@@ -1,5 +1,5 @@
 {
-  "name": "reveal-animation-react",
+  "name": "@firatmio/reveal-animation-react",
   "version": "1.0.0",
   "type": "module",
   "description": "A React component with smooth reveal animation on scroll using Intersection Observer",
@@ -20,6 +20,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/firatmio/reveal-animation"
+  },
+  "publishConfig": {
+    "@firatmio:registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/firatmio/reveal-animation#readme",
   "bugs": {

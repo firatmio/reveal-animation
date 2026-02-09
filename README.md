@@ -239,7 +239,7 @@ function ResponsiveSection() {
 Clone and set up the project:
 
 ```bash
-git clone https://github.com/yourusername/reveal-animation.git
+git clone https://github.com/firatmio/reveal-animation.git
 cd reveal-animation
 bun install
 bun run dev
@@ -271,7 +271,7 @@ MIT © 2026 - [See LICENSE file](LICENSE)
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a [Pull Request](https://github.com/yourusername/reveal-animation/pulls).
+Contributions are welcome! Please feel free to submit a [Pull Request](https://github.com/firatmio/reveal-animation/pulls).
 
 ### How to Contribute
 
@@ -285,13 +285,13 @@ Contributions are welcome! Please feel free to submit a [Pull Request](https://g
 
 ## 📞 Support
 
-- 📖 [Documentation](https://github.com/yourusername/reveal-animation#readme)
-- 🐛 [Report Issues](https://github.com/yourusername/reveal-animation/issues)
-- 💬 [Discussions](https://github.com/yourusername/reveal-animation/discussions)
+- 📖 [Documentation](https://github.com/firatmio/reveal-animation#readme)
+- 🐛 [Report Issues](https://github.com/firatmio/reveal-animation/issues)
+- 💬 [Discussions](https://github.com/firatmio/reveal-animation/discussions)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Firat</a></p>
-  <p><a href="https://github.com/yourusername/reveal-animation">⭐ Star us on GitHub</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/firatmio">firatmio</a></p>
+  <p><a href="https://github.com/firatmio/reveal-animation">⭐ Star us on GitHub</a></p>
 </div>
