@@ -1,0 +1,71 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  width: 100vw;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  left: 0;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.footer .username{
+  font-weight: 800;
+  color: white;
+}
+
+.howtouse {
+  display: flex;
+  flex-direction: row;
+  gap: .5rem;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all .2s ease-out;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.howtouse span {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+}
+
+.howtouse:hover {
+  margin-left: .5rem;
+  gap: 1rem;
+  color: white;
+}

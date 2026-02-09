@@ -1,0 +1,41 @@
+# Source files
+src/
+public/
+
+# Development files
+*.tsx
+*.ts
+!*.d.ts
+
+# Configuration files
+vite.config.ts
+tsconfig.json
+tsconfig.app.json
+tsconfig.node.json
+eslint.config.js
+
+# Development tools
+.vscode/
+.idea/
+
+# Test files
+*.test.ts
+*.spec.ts
+
+# Docs & Examples
+README.md
+*.md
+
+# Node & Package files
+node_modules/
+bun.lock
+package-lock.json
+yarn.lock
+
+# System files
+.DS_Store
+.env
+.env.*
+
+# Build artifacts (keep dist)
+!dist/
